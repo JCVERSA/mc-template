@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Nebula Craft: Bedrock Server Console, a Minecraft Bedrock Dedicated Server (BDS) management web application with multi-view navigation across all mockup screens (Dashboard, Operator Auth Modal, 54-Slot Chest Matrix, Command Block Pipeline, and F3 Telemetry Tower), real-time interactive terminal simulation, command execution, live metrics, and sound effects.",
+  "updatedAt":  "2026-09-27T00:45:10.805826592Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

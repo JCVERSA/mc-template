@@ -1,0 +1,6 @@
+{
+  "name": "Nebula Craft - Bedrock Server Console",
+  "description": "Diegetic Minecraft Bedrock Dedicated Server (BDS) console with live terminal, visual pipelines, F3 telemetry, and master container matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
